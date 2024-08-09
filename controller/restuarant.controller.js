@@ -287,6 +287,7 @@ const deleteRestaurant = async (req, res) => {
         });
     }
 }
+const hello = () => {}
 
 export {
     createRestuarant,
